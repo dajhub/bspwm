@@ -27,8 +27,8 @@ get_icon() {
 ## Dependencies ##
 # jq
 
-KEY="58e1415438dc43f95ca18d6b268253dd"     # OpenWeatherMap Key : https://openweathermap.org/appid
-CITY="2656051"    # Example: CITY "2950159"  https://openweathermap.org/city/2950159
+KEY=""     # OpenWeatherMap Key : https://openweathermap.org/appid
+CITY=""    # Example: CITY "2950159"  https://openweathermap.org/city/2950159
 UNITS="metric"
 SYMBOL="°C"
 
