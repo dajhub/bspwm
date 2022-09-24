@@ -34,6 +34,7 @@ bspc rule -a Lxappearance state=floating
 
 # 1 > web
 bspc rule -a firefox desktop='^1' follow=on focus=on
+bspc rule -a Chromium desktop='^1' follow=on focus=on
 
 # 2 > terminal
 bspc rule -a kitty desktop='^2' follow=on focus=on

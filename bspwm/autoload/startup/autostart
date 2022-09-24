@@ -7,6 +7,7 @@ $HOME/.config/bspwm/autoload/swallow/bspswallow &
 pgrep bspswallow || bspswallow &
 ## xwallpaper --zoom ~/.config/nsxiv/wall &
 nitrogen --restore &
+xrandr -s 1360x768 &
 ## feh --bg-max --randomize ~/Pictures/Wallpapers/* &
 
 xsetroot -cursor_name left_ptr &

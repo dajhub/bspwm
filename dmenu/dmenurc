@@ -2,16 +2,16 @@
 ## Config file for dmenu-patched ##
 
 ## Define the font for dmenu to be used ##
-DMENU_FN="MononokiNerdFont-8.6"
+DMENU_FN="MononokiNerdFont-10.8"
 
 ## Background color for unselected menu-items ##
-DMENU_NB="#0a0d11"
+DMENU_NB="#2F383E"
 
 ## Textcolor for unselected menu-items ##
 DMENU_NF="#F9FAF9"
 
 ## Background color for selected menu-items ##
-DMENU_SB="#7E9191"
+DMENU_SB="#8ccf7e"
 
 ## Textcolor for selected menu-items ##
 DMENU_SF="#000000"

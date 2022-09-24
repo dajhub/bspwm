@@ -93,7 +93,7 @@ super + q
  bspc node -c
 
 ## Quit the session ##
-super + ctrl + Print
+super + ctrl + q
  bspc {quit}
 
 ## Logout Prompt ##
